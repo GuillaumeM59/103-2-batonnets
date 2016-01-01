@@ -6,17 +6,54 @@
 
 
 
+   body {
+       padding-top: 50px;
+       padding-bottom: 20px;
+   }
 
+   .scene {
+     background-color: black;
+     width: 90%;
+     height: 400px;
+     margin: auto;
+   }
 
+  .plateau {
+    background-color: rgb(93, 39, 0);
+    width: 95%;
+    height: 80%;
+    border-radius: 30px;
+    margin: auto;
+  position: relative;
+  top: 0;
+  overflow: hidden;
+  }
 
+  .slots{
+    background-color: rgb(48, 48, 48);
+    height: 50%;
+    position: absolute;
+    top: 25%;
+    border: 1px solid rgb(37, 37, 37);
+  }
 
+  .batonnets{
+    background-color: rgb(147, 101, 0);
+    height: 50%;
+    position: absolute;
+    top: 25%;
+    border: 1px solid rgb(131, 79, 0);
+  }
 
-
-
-
-
-
-
-
-
-
+  .player {
+    font-size: 1.6em;
+    font-family: fantasy;
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+    left: 10px;
+  }
+  .rmvButton{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
