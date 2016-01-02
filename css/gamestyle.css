@@ -12,9 +12,10 @@
    }
 
    .scene {
+     padding-top: 5px;
      background-color: black;
      width: 90%;
-     height: 400px;
+     height: 500px;
      margin: auto;
    }
 
@@ -46,6 +47,8 @@
   }
 
   .player {
+    margin-top: 5px;
+    margin-bottom: 5px;
     font-size: 1.6em;
     font-family: fantasy;
     font-weight: 600;
