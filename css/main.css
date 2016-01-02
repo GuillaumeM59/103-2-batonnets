@@ -57,3 +57,11 @@
     margin-left: 5%;
     margin-right: 5%;
   }
+
+  .restartbtn{
+    font-size: 2em;
+    font-weight: bolder;
+    position:relative;
+    top: 45%;
+    left:45%;
+  }
