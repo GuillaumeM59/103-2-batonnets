@@ -7,4 +7,4 @@
 
 1. [103-carousel-Sophie-Guillaume](http://guillaumem59.github.io/103-carousel-Sophie-Guillaume)
 1. **[103-2-batonnets](http://guillaumem59.github.io/103-2-batonnets)**
-1. [cheat-sheet Terminal](http://guillaumem59.github.io/003-cheat-sheet-console)
+1. [Devinez le chiffre](http://sophie-d.github.io/Devinez-le-chiffre/)
